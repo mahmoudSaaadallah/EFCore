@@ -1,0 +1,14 @@
+G:\c#Project\EFCore\EFCore\bin\Debug\net8.0\EFCore.exe
+G:\c#Project\EFCore\EFCore\bin\Debug\net8.0\EFCore.deps.json
+G:\c#Project\EFCore\EFCore\bin\Debug\net8.0\EFCore.runtimeconfig.json
+G:\c#Project\EFCore\EFCore\bin\Debug\net8.0\EFCore.dll
+G:\c#Project\EFCore\EFCore\bin\Debug\net8.0\EFCore.pdb
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.AssemblyInfoInputs.cache
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.AssemblyInfo.cs
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.csproj.CoreCompileInputs.cache
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.dll
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\refint\EFCore.dll
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.pdb
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\EFCore.genruntimeconfig.cache
+G:\c#Project\EFCore\EFCore\obj\Debug\net8.0\ref\EFCore.dll
